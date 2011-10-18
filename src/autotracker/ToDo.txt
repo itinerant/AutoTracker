@@ -1,0 +1,27 @@
+Bugs
+    blank history in details is showing single item when there is no status
+    label not appearing on Please Wait dialog
+
+Current
+
+
+Phase 3
+    default data config
+	method prefix
+    static preferences
+	default mode
+	size of columns
+	build/suite
+    filter by date range
+    change filter to remember current sort order
+    deleted tests report
+	undelete tests
+
+Phase 4
+    trend modes
+	by priority
+	by assignment
+	by status
+	by result
+    test steps
+	import
