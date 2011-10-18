@@ -1,0 +1,5 @@
+AutoTracker was built to track the development and execution of automated test cases.  It is compatible with the TestLink test case management tool through exporting and importing.
+
+--------------------
+
+It is written in Java and assumes a MySQL database, although that could be easily modified.
